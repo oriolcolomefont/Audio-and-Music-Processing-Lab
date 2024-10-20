@@ -14,3 +14,5 @@ Introduction to basic music theory (staff notation)
 Introduction to musicological and ethnomusicological research
 Introduction to research in computational musicology
 Music analysis of machine-readable scores
+
+Further content on my work in Module 3 can be found here: https://github.com/oriolcolomefont/arab-andal-motif-dev
