@@ -160,3 +160,79 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files #
+########################
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Node.js #
+###########
+node_modules/
+npm-debug.log
+
+# Java #
+########
+*.class
+*.war
+*.ear
+
+# Large media files #
+#####################
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Build directories #
+#####################
+build/
+dist/
+out/
+
+# Temporary files #
+###################
+*.bak
+*.tmp
+*.temp
